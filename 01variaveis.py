@@ -1,0 +1,31 @@
+print("Variavéis")
+print("")
+print("Definindo valores as variaveis")
+print("Valor Hora")
+valorhora = 4
+print(valorhora)
+print("Dias")
+dias = 30
+print(dias)
+print("Horas Trabalho")
+horastrabalho = 8
+print(horastrabalho)
+print("Calculo Vencimento Mensal (Valor Hora X Dias X Horas Trabalho)")
+vencimentomensal = valorhora * dias * horastrabalho
+print(vencimentomensal)
+print("Nome")
+nome= "Williams"
+print(nome)
+print("Nome Concatenado")
+print(nome + " Machado")
+print("Convertendo Valor Mensal")
+print(float(vencimentomensal))
+print("Impriminto por limites")
+print(nome[0:4])
+print("Multiplicando String")
+print(nome[0:4]*8)
+print("Verificando se tem W na string")
+print('W' in nome)
+print("Verificando se tem Z na string")
+print('Z' in nome)
+print("")
